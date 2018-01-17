@@ -1,0 +1,2 @@
+INSERT INTO `user_reviews` (`id`, `user_id`, `book_id`, `review`, `created_at`, `updated_at`) VALUES
+(1, 1, 1, 'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sint ad ex quas corrupti ullam delectus eos, non voluptatem neque tempora nostrum expedita impedit temporibus ipsam vitae quis eveniet consequatur mollitia numquam quia eum itaque deleniti porro. Eius quasi optio eveniet in, nostrum, asperiores earum provident voluptatem fugit quo quidem? Inventore?', '2017-11-06 10:27:25', '2017-11-06 10:27:25');
